@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <a href="https://twitter.com/Willingtonkutar" target="blank"><img src="https://img.shields.io/twitter/follow/Willingtonkutar?logo=twitter&style=for-the-badge" alt="Willingtonkutar" /></a> </p>
+<img align="right" alt="Software Engineering" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 ## 🌱 **Currently Channeling Knowledge In**
 
